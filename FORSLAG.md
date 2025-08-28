@@ -5,7 +5,7 @@
 - Microdata dsl
 - Hvordan gjøre backup
 - Supergrafen til studiueadmin
-- Teamer innen arkitektur - April 2025
+- Teamer innen arkitektur - April 2025 (miro: https://miro.com/app/board/uXjVI-4Us6U=/?share_link_id=602899351443)
   - Design av grensesnitt/lag i arkitekturen (5 stemmer)
   - Standarder (4 stemmer), herunder
     - Lovkrav
